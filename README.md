@@ -8,5 +8,6 @@
 7주차 스터디 보고서[7주차 보고서.pdf](https://github.com/CM9RE/Rokey-Study-Team/blob/main/7.pdf)   
 8주차 스터디 보고서[8주차 보고서.pdf](https://github.com/user-attachments/files/17719099/8.pdf)   
 9주차 스터디 보고서[9주차 보고서.pdf](https://github.com/user-attachments/files/17817739/9.pdf)   
-   
+10주차 스터디 보고서[10주차 보고서.pdf](https://github.com/user-attachments/files/18166833/10.pdf)   
 11주차 스터디 보고서[11주차 보고서.pdf](https://github.com/user-attachments/files/18052243/11.pdf)   
+12주차 스터디 보고서[12주차 보고서.pdf](https://github.com/user-attachments/files/18166841/12.pdf)

@@ -10,5 +10,5 @@
 9주차 스터디 보고서[9주차 보고서.pdf](https://github.com/user-attachments/files/17817739/9.pdf)   
 10주차 스터디 보고서[10주차 보고서.pdf](https://github.com/user-attachments/files/18166833/10.pdf)   
 11주차 스터디 보고서[11주차 보고서.pdf](https://github.com/user-attachments/files/18052243/11.pdf)   
-12주차 스터디 보고서[12주차 보고서.pdf](https://github.com/user-attachments/files/18166841/12.pdf)
+12주차 스터디 보고서[12주차 보고서.pdf](https://github.com/user-attachments/files/18166841/12.pdf)   
 13주차 스터디 보고서[13주차 보고서.pdf](https://github.com/user-attachments/files/18222003/13.pdf)   
